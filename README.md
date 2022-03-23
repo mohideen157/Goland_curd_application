@@ -1,0 +1,1 @@
+# Goland_curd_application
